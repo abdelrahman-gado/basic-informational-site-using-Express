@@ -1,0 +1,21 @@
+{
+  "name": "basic-informational-site-using-express",
+  "version": "1.0.0",
+  "description": "It is a very basic informational site created with Nodejs and Express that contains 4 pages: index, about, contact-me and 404.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahman-gado/basic-informational-site-using-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelrahman-gado/basic-informational-site-using-Express/issues"
+  },
+  "homepage": "https://github.com/abdelrahman-gado/basic-informational-site-using-Express#readme"
+}
